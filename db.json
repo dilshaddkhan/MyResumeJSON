@@ -1,45 +1,122 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Programmer",
+    "name": "Mohd Dilshad Khan",
+    "designation": "Android App Developer",
     "picture": "",
-    "email": "john@gmail.com",
-    "phone": "(912) 555-4321",
-    "website": "http://johndoe.com",
-    "summary": "A summary of John Doe...",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    }
+    "email": "dilshaddkhan@outlook.com",
+    "phone": "+1-437-981-1423",
+    "linkedInProfile": "https://www.linkedin.com/in/dilshaddkhan/",
+    "gitHUbProfile": ":  https://github.com/dilshaddkhan",
+    "summary": "I have 3+ years of experience in the Android Development, used RESTful services, integrating different libraries and XML. I was involved in the Development, Testing(Manual) and Implementation of complex software solutions.",
+    "carrerHighlights": [
+      "3+ years of experience in Android Application Development",
+      "Hands-on experience in design and development of Android Applications",
+      "Good knowledge of OOPS concepts and implementation",
+      "Good understanding of REST, web services, JSON, XML",
+      "Securing & Authenticating WEB APIs .",
+      "Understanding of  Android Architecture Component, Retrofit2, RxJava2.",
+      "Working experience with third party libraries like GSON, LibPhoneNumber, ACRA, Firebase Analytics etc",
+      "Good understanding of MVP, MVVM architecture patterns"
+    ]
   },
-  "work": [{
-    "company": "Company",
-    "position": "President",
-    "website": "http://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
-    "summary": "Description...",
-    "highlights": [
-      "Started the company"
-    ]
-  }],
-  "education": [{
-    "institution": "University",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "gpa": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "skills": [{
-    "name": "Web Development",
-    "level": "Master",
-    "keywords": ["HTML","CSS","Javascript"]
-  }]
+  "work": [
+    {
+      "company": "Agranee Solutions Pvt. Ltd ",
+      "position": "Android App Developer",
+      "website": "http://www.agranee.com/",
+      "startDate": "Feb 2016",
+      "endDate": "till now",
+      "projectUnderTaken": [
+        {
+          "projectName": "Konnections: Contacts Management ",
+          "playStoreLink": "https://play.google.com/store/apps/details?id=com.konnectionsconcepts.konnections",
+          "technologies": "Android, Core Java, Web services, REST, JSON Parsing, Agile, Android Studio, Dagger2, Retrofit, Butterknife .",
+          "highlights": [
+            "Involved in creating the roadmap"
+          ]
+        },
+        {
+          "projectName": "Augmont - (Buy Gold and Silver in India)",
+          "playStoreLink": "https://play.google.com/store/apps/details?id=com.ambab.augmont",
+          "technologies": ": Android, Core Java, Web services, REST, JSON Parsing, Android Studio, Retrofit, Multipart, Payment gateway Integration ",
+          "highlights": [
+            "Involved in creating the roadmap"
+          ]
+        },
+        {
+          "projectName": "Java Deep Learning: Core java",
+          "playStoreLink": "https://play.google.com/store/apps/details?id=com.awwalsoft.javadeeplearning&hl=en",
+          "technologies": "  Core Java, Android, XML, Android Studio. ",
+          "highlights": [
+            "Involved in creating the roadmap"
+          ]
+        },
+        {
+          "projectName": "Learn Jdbc : Java, Jdbc, Odbc",
+          "playStoreLink": " https://play.google.com/store/apps/details?id=com.awwalsoft.learnjdbc&hl=en",
+          "technologies": "  Core Java, Android, XML, Android Studio. ",
+          "highlights": [
+            "Involved in creating the roadmap"
+          ]
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "CSJM University Kanpur",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "July 2011",
+      "endDate": "May 2014",
+      "courses": "Bachelor of Science(Information Technology)"
+    },
+    {
+      "institution": "CBSE",
+      "studyType": "High School",
+      "startDate": "july 2010",
+      "endDate": "May 2011",
+      "gpa": "8.0"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Android App Development",
+      "level": "Master",
+      "languagesAndTechnologies": [
+        "Android",
+        "Kotlin (basics)",
+        "Java",
+        "XML",
+        "Web Services"
+      ],
+      "dataBase": [
+        "SQLite",
+        "Oracle",
+        "MySQL"
+      ],
+      "tools": [
+        "Maven",
+        "Espresso",
+        "JUnit"
+      ],
+      "ideCompatability": [
+        "Android Studio",
+        "Android SDK",
+        "Eclipse",
+        "intelliJ"
+      ],
+      "versionControlTool": [
+        "Bitbucket",
+        "GIT",
+        "JIRA",
+        "SourceTree"
+      ],
+      "patforms": [
+        "Mac OS",
+        "Windows 8",
+        "Windows 10"
+      ]
+    }
+  ]
 }
