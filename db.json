@@ -38,8 +38,8 @@
       "gpa": "8.0"
     }
   ],
-  "skills": [
-    {
+  "skills":{
+  
       "name": "Android App Development",
       "level": "Master",
       "languagesAndTechnologies": [
@@ -77,7 +77,6 @@
         "Windows 10"
       ]
     }
-  ]
   },
   "experiences": {
     "experience": [{
