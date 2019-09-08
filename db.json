@@ -120,34 +120,22 @@
         {
           "projectName": "Konnections: Contacts Management ",
           "playStoreLink": "https://play.google.com/store/apps/details?id=com.konnectionsconcepts.konnections",
-          "technologies": "Android, Core Java, Web services, REST, JSON Parsing, Agile, Android Studio, Dagger2, Retrofit, Butterknife .",
-          "highlights": [
-            "Involved in creating the roadmap"
-          ]
-        },
+          "technologies": "Android, Core Java, Web services, REST, JSON Parsing, Agile, Android Studio, Dagger2, Retrofit, Butterknife ."
+    },
         {
           "projectName": "Augmont - (Buy Gold and Silver in India)",
           "playStoreLink": "https://play.google.com/store/apps/details?id=com.ambab.augmont",
-          "technologies": ": Android, Core Java, Web services, REST, JSON Parsing, Android Studio, Retrofit, Multipart, Payment gateway Integration ",
-          "highlights": [
-            "Involved in creating the roadmap"
-          ]
+          "technologies": ": Android, Core Java, Web services, REST, JSON Parsing, Android Studio, Retrofit, Multipart, Payment gateway Integration "
         },
         {
           "projectName": "Java Deep Learning: Core java",
           "playStoreLink": "https://play.google.com/store/apps/details?id=com.awwalsoft.javadeeplearning&hl=en",
-          "technologies": "  Core Java, Android, XML, Android Studio. ",
-          "highlights": [
-            "Involved in creating the roadmap"
-          ]
+          "technologies": "  Core Java, Android, XML, Android Studio. "
         },
         {
           "projectName": "Learn Jdbc : Java, Jdbc, Odbc",
           "playStoreLink": " https://play.google.com/store/apps/details?id=com.awwalsoft.learnjdbc&hl=en",
-          "technologies": "  Core Java, Android, XML, Android Studio. ",
-          "highlights": [
-            "Involved in creating the roadmap"
-          ]
+          "technologies": "  Core Java, Android, XML, Android Studio. "
         }
       ]
 }
