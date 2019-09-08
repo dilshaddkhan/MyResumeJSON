@@ -8,18 +8,10 @@
     "gitHUbProfile": ":https://github.com/dilshaddkhan",
     
     "summary": "I have 3+ years of experience in the Android Development, used RESTful services, integrating different libraries and XML. I was involved in the Development, Testing(Manual) and Implementation of complex software solutions.",
+    
+    "skills":  "Android ,Kotlin (basics) ,Java XML ,Web Service SQLite, Oracle, MySQL, Maven,Espresso,JUnit,Android Studio, Android SDK, Eclipse, intelliJ, Bitbucket, GIT, JIRA, SourceTree, Mac OS, Windows 8, Windows 10",
+    
      "interests":"I discover the world by traveling, getting know the people,eating new things and learning foreign languages.Taking photo is the way to keep all memories in my mind. Also I try to life healthy by cooking and playing sport especially cricket.I listen to music every day and in free time watch movies.",
-     
-    "carrerHighlights": [
-      "3+ years of experience in Android Application Development",
-      "Hands-on experience in design and development of Android Applications",
-      "Good knowledge of OOPS concepts and implementation",
-      "Good understanding of REST, web services, JSON, XML",
-      "Securing & Authenticating WEB APIs .",
-      "Understanding of  Android Architecture Component, Retrofit2, RxJava2.",
-      "Working experience with third party libraries like GSON, LibPhoneNumber, ACRA, Firebase Analytics etc",
-      "Good understanding of MVP, MVVM architecture patterns"
-    ],
     
     "education": [
     {
@@ -37,47 +29,7 @@
       "endDate": "May 2011",
       "gpa": "8.0"
     }
-  ],
-  "skills":{
-  
-      "name": "Android App Development",
-      "level": "Master",
-      "languagesAndTechnologies": [
-        "Android",
-        "Kotlin (basics)",
-        "Java",
-        "XML",
-        "Web Services"
-      ],
-      "dataBase": [
-        "SQLite",
-        "Oracle",
-        "MySQL"
-      ],
-      "tools": [
-        "Maven",
-        "Espresso",
-        "JUnit"
-      ],
-      "ideCompatability": [
-        "Android Studio",
-        "Android SDK",
-        "Eclipse",
-        "intelliJ"
-      ],
-      "versionControlTool": [
-        "Bitbucket",
-        "GIT",
-        "JIRA",
-        "SourceTree"
-      ],
-      "patforms": [
-        "Mac OS",
-        "Windows 8",
-        "Windows 10"
-      ]
-    }
-  },
+  ]},
   "experiences": {
     "experience": [{
       "company": "Agranee Solutions Pvt. Ltd ",
