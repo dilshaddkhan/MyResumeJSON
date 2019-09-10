@@ -21,6 +21,7 @@
       "website": "http://www.agranee.com/",
       "startDate": "Feb 2016",
       "endDate": "till now",
+       "companylogo":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/agraneelogo.png",
        "responsibilities": "Involved in creating the roadmap Used MVP Architecture.Created a database in sqlite.Involved in entire software development process for application (requirement, specification, design, implementation and testing on various android versions).Involved in Sprint Planning.Involved in daily scrum meetings."
     },
      {
@@ -29,6 +30,7 @@
       "website": "http://konnections.mobi/",
       "startDate": "Decemeber 2017",
       "endDate": "till now",
+       "companylogo":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/konnection_app_log.png",
       "responsibilities": "Involved in creating the roadmap Used MVP Architecture.Created a database in sqlite.Involved in entire software development process for application (requirement, specification, design, implementation and testing on various android versions).Involved in Sprint Planning.Involved in daily scrum meetings.Built app that communicates with RESTful services, Mobile Number OTP Authentication using Google Firebase Authentication."
      
     },
@@ -38,6 +40,7 @@
       "website": "https://www.augmont.in/",
       "startDate": "Feb 2016",
       "endDate": "November 2017",
+       "companylogo":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/augmontlogo.png",
      "responsibilities": "Involved in creating the roadmap Used MVP Architecture.Created a database in sqlite.Involved in entire software development process for application (requirement, specification, design, implementation and testing on various android versions).Involved in Sprint Planning.Involved in daily scrum meetings.Built app that communicates with RESTful services. Involved in Bug fixing and testing the app in android emulator present in android SDK and various android version devices."
     },
      {
@@ -46,8 +49,8 @@
       "website": "http://www.AdamMickiewiczUniversity.com/",
       "startDate": "Feb 2014",
       "endDate": "January 2016",
+       "companylogo":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/logo_poleng.png",
       "responsibilities": "Involved in creating the roadmap Used MVP Architecture.Created a database in sqlite.Involved in entire software development process for application (requirement, specification, design, implementation and testing on various android versions).Involved in Sprint Planning.Involved in daily scrum meetings.Built app that communicates with RESTful services. Working experience with third party libraries like GSON, lib phone number."
-     
     }]
   },
   
@@ -56,22 +59,51 @@
         {
           "projectName": "Konnections: Contacts Management ",
           "playStoreLink": "https://play.google.com/store/apps/details?id=com.konnectionsconcepts.konnections",
-          "technologies": "Android, Core Java, Web services, REST, JSON Parsing, Agile, Android Studio, Dagger2, Retrofit, Butterknife ."
+          "technologies": "Android, Core Java, Web services, REST, JSON Parsing, Agile, Android Studio, Dagger2, Retrofit, Butterknife .",
+            "companylogo":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/agraneelogo.png",
+          "URLS": [
+            {
+            "url1":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/konnections1.png"},
+            {
+            "url2":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/konnections2.png"},
+            {
+            "url3":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/konnections3.png"
+            }
+            ]
     },
         {
           "projectName": "Augmont - (Buy Gold and Silver in India)",
           "playStoreLink": "https://play.google.com/store/apps/details?id=com.ambab.augmont",
-          "technologies": ": Android, Core Java, Web services, REST, JSON Parsing, Android Studio, Retrofit, Multipart, Payment gateway Integration "
+          "technologies": ": Android, Core Java, Web services, REST, JSON Parsing, Android Studio, Retrofit, Multipart, Payment gateway Integration ",
+          "companylogo":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/augmontlogo.png",
+          "URLS": [
+            {
+            "url1":"  https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/augmont1.png"},
+            {
+            "url2":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/augmont2.png"},
+            {
+            "url3":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/augmont3.png"
+            }
+            ]
+
         },
-        {
-          "projectName": "Java Deep Learning: Core java",
-          "playStoreLink": "https://play.google.com/store/apps/details?id=com.awwalsoft.javadeeplearning&hl=en",
-          "technologies": "  Core Java, Android, XML, Android Studio. "
-        },
+
         {
           "projectName": "Learn Jdbc : Java, Jdbc, Odbc",
           "playStoreLink": " https://play.google.com/store/apps/details?id=com.awwalsoft.learnjdbc&hl=en",
-          "technologies": "  Core Java, Android, XML, Android Studio. "
+          "technologies": "  Core Java, Android, XML, Android Studio. ",
+          "companylogo":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/awwaljdbclogo.png",
+          "URLS": [
+            {
+            "url1":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/awwaljdbc1.png"
+              },
+            {
+            "url2":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/awwaljdbc2.png"
+            },
+            {
+            "url3":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/awwaljdbc3.png"
+            }
+            ]
         }
       ]}
 }
