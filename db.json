@@ -29,7 +29,7 @@
       "website": "http://konnections.mobi/",
       "startDate": "Decemeber 2017",
       "endDate": "till now",
-      "companylogo": "https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/konnection_app_log.png",
+      "companylogo": "",
       "responsibilities": "Involved in creating the roadmap Used MVP Architecture.Created a database in sqlite.Involved in entire software development process for application (requirement, specification, design, implementation and testing on various android versions).Involved in Sprint Planning.Involved in daily scrum meetings.Built app that communicates with RESTful services, Mobile Number OTP Authentication using Google Firebase Authentication."
     },
     {
@@ -76,7 +76,7 @@
           "companylogo":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/augmontlogo.png",
           "URLS": {
             
-            "url1":"  https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/augmont1.png",
+            "url1":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/augmont1.png",
             
             "url2":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/augmont2.png",
             
