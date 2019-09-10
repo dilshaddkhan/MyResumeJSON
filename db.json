@@ -1,20 +1,16 @@
 {
   "about": {
-    "name": "Mohd Dilshad Khan",
-    "designation": "Android App Developer",
-    "email": "dilshaddkhan@outlook.com",
-    "phone": "+1-437-981-1423",
-    "profilepic": "https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/profilepic.jpg",
-    "backgroundimage":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/about_background.jpg",
-    "linkedInProfile": "https://www.linkedin.com/in/dilshaddkhan/",
-    "gitHUbProfile": ":https://github.com/dilshaddkhan",
-    
-    "summary": "I have 3+ years of experience in the Android Development, used RESTful services, integrating different libraries and XML. I was involved in the Development, Testing(Manual) and Implementation of complex software solutions.",
-    
-    "skills":  "Android ,Kotlin (basics) ,Java XML ,Web Service SQLite, Oracle, MySQL, Maven,Espresso,JUnit,Android Studio, Android SDK, Eclipse, intelliJ, Bitbucket, GIT, JIRA, SourceTree, Mac OS, Windows 8, Windows 10",
-    
-     "interests":"I discover the world by traveling, getting know the people,eating new things and learning foreign languages.Taking photo is the way to keep all memories in my mind. Also I try to life healthy by cooking and playing sport especially cricket.I listen to music every day and in free time watch movies."
-    
+      "name": "Mohd Dilshad Khan",
+  "designation": "Android App Developer",
+  "email": "dilshaddkhan@outlook.com",
+  "phone": "+1-437-981-1423",
+  "profilepic": "https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/profilepic.jpg",
+  "backgroundimage": "https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/about_background.jpg",
+  "linkedInProfile": "https://www.linkedin.com/in/dilshaddkhan/",
+  "gitHUbProfile": ":https://github.com/dilshaddkhan",
+  "summary": "I have 3+ years of experience in the Android Development, used RESTful services, integrating different libraries and XML. I was involved in the Development, Testing(Manual) and Implementation of complex software solutions.",
+  "skills": "Android, Kotlin (basics) , Java XML, Web Service SQLite, Oracle, MySQL, Maven, Espresso, JUnit, Android Studio, Android SDK, Eclipse, IntelliJ, Bitbucket, GIT, JIRA, SourceTree, Mac OS, Windows 8, Windows 10",
+  "interests": "I discover the world by traveling, getting to know the people, eating new things and learning foreign languages. Taking photo is the way to keep all the memories in my mind. Also, I try to live healthy by cooking and playing sport, especially cricket. I listen to music every day and in free time watch movies."
   },
   "experiences": {
     "experience": [{
