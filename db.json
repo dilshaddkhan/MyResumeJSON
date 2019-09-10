@@ -52,37 +52,37 @@
     }]
   },
   
-  "projects":{
+ "projects":{
  "projects": [
         {
           "projectName": "Konnections: Contacts Management ",
           "playStoreLink": "https://play.google.com/store/apps/details?id=com.konnectionsconcepts.konnections",
           "technologies": "Android, Core Java, Web services, REST, JSON Parsing, Agile, Android Studio, Dagger2, Retrofit, Butterknife .",
             "companylogo":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/agraneelogo.png",
-          "URLS": [
-            {
-            "url1":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/konnections1.png"},
-            {
-            "url2":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/konnections2.png"},
-            {
+          "URLS": {
+            
+            "url1":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/konnections1.png",
+            
+            "url2":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/konnections2.png",
+            
             "url3":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/konnections3.png"
-            }
-            ]
+            
+          }
     },
         {
           "projectName": "Augmont - (Buy Gold and Silver in India)",
           "playStoreLink": "https://play.google.com/store/apps/details?id=com.ambab.augmont",
           "technologies": ": Android, Core Java, Web services, REST, JSON Parsing, Android Studio, Retrofit, Multipart, Payment gateway Integration ",
           "companylogo":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/augmontlogo.png",
-          "URLS": [
-            {
-            "url1":"  https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/augmont1.png"},
-            {
-            "url2":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/augmont2.png"},
-            {
+          "URLS": {
+            
+            "url1":"  https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/augmont1.png",
+            
+            "url2":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/augmont2.png",
+            
             "url3":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/augmont3.png"
             }
-            ]
+            
 
         },
 
@@ -91,17 +91,16 @@
           "playStoreLink": " https://play.google.com/store/apps/details?id=com.awwalsoft.learnjdbc&hl=en",
           "technologies": "  Core Java, Android, XML, Android Studio. ",
           "companylogo":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/awwaljdbclogo.png",
-          "URLS": [
+          "URLS": 
             {
             "url1":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/awwaljdbc1.png"
-              },
-            {
-            "url2":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/awwaljdbc2.png"
-            },
-            {
+              ,
+            
+            "url2":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/awwaljdbc2.png",
+
             "url3":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/awwaljdbc3.png"
             }
-            ]
+            
         }
       ]}
 }
