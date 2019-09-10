@@ -13,41 +13,42 @@
   "interests": "I discover the world by traveling, getting to know the people, eating new things and learning foreign languages. Taking photo is the way to keep all the memories in my mind. Also, I try to live healthy by cooking and playing sport, especially cricket. I listen to music every day and in free time watch movies."
   },
   "experiences": {
-    "experience": [{
+    {
+  "experience": [
+    {
       "company": "Agranee Solutions Pvt. Ltd ",
       "position": "Android App Developer",
       "website": "http://www.agranee.com/",
       "startDate": "Feb 2016",
       "endDate": "till now",
-       "companylogo":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/agraneelogo.png",
-       "responsibilities": "Involved in creating the roadmap Used MVP Architecture.Created a database in sqlite.Involved in entire software development process for application (requirement, specification, design, implementation and testing on various android versions).Involved in Sprint Planning.Involved in daily scrum meetings."
+      "companylogo": "https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/agraneelogo.png",
+      "responsibilities": "Involved in creating the roadmap Used MVP Architecture.Created a database in sqlite.Involved in entire software development process for application (requirement, specification, design, implementation and testing on various android versions).Involved in Sprint Planning.Involved in daily scrum meetings."
     },
-     {
+    {
       "company": "Konnections ",
       "position": "Member",
       "website": "http://konnections.mobi/",
       "startDate": "Decemeber 2017",
       "endDate": "till now",
-       "companylogo":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/konnection_app_log.png",
+      "companylogo": "https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/konnection_app_log.png",
       "responsibilities": "Involved in creating the roadmap Used MVP Architecture.Created a database in sqlite.Involved in entire software development process for application (requirement, specification, design, implementation and testing on various android versions).Involved in Sprint Planning.Involved in daily scrum meetings.Built app that communicates with RESTful services, Mobile Number OTP Authentication using Google Firebase Authentication."
-     
     },
-     {
+    {
       "company": "Augmont ",
       "position": "Android App Developer",
       "website": "https://www.augmont.in/",
       "startDate": "Feb 2016",
       "endDate": "November 2017",
-       "companylogo":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/augmontlogo.png",
-     "responsibilities": "Involved in creating the roadmap Used MVP Architecture.Created a database in sqlite.Involved in entire software development process for application (requirement, specification, design, implementation and testing on various android versions).Involved in Sprint Planning.Involved in daily scrum meetings.Built app that communicates with RESTful services. Involved in Bug fixing and testing the app in android emulator present in android SDK and various android version devices."
+      "companylogo": "https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/augmontlogo.png",
+      "responsibilities": "Involved in creating the roadmap Used MVP Architecture. Created a database in SQLite. Involved in the entire software development process for application (requirement, specification, design, implementation and testing on various android versions). Involved in Sprint Planning. Involved in daily scrum meetings. The built app that communicates with RESTful services. Involved in Bug fixing and testing the app in android emulator present in android SDK and various android version devices."
     },
-     {
+    {
       "company": "Adam Mickiewicz University ",
       "position": "Android App Developer",
       "website": "http://www.AdamMickiewiczUniversity.com/",
       "startDate": "Feb 2014",
       "endDate": "January 2016",
-       "companylogo":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/logo_poleng.png",
+      "companylogo": "https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/logo_poleng.png",
       "responsibilities": "Involved in creating the roadmap Used MVP Architecture.Created a database in sqlite.Involved in entire software development process for application (requirement, specification, design, implementation and testing on various android versions).Involved in Sprint Planning.Involved in daily scrum meetings.Built app that communicates with RESTful services. Working experience with third party libraries like GSON, lib phone number."
     }]
   },
