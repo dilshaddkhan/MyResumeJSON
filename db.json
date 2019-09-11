@@ -61,11 +61,11 @@
             "companylogo":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/agraneelogo.png",
           "ScreenShot": {
             
-            "url1":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/konnections1.png",
+            "screenShotURL1":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/konnections1.png",
             
-            "url2":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/konnections2.png",
+            "screenShotURL2":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/konnections2.png",
             
-            "url3":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/konnections3.png"
+            "screenShotURL3":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/konnections3.png"
             
           }
     },
@@ -76,11 +76,11 @@
           "companylogo":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/augmontlogo.png",
           "ScreenShot": {
             
-            "url1":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/augmont1.png",
+            "screenShotURL1":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/augmont1.png",
             
-            "url2":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/augmont2.png",
+            "screenShotURL2":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/augmont2.png",
             
-            "url3":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/augmont3.png"
+            "screenShotURL3":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/augmont3.png"
             }
             
 
@@ -93,12 +93,12 @@
           "companylogo":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/awwaljdbclogo.png",
           "ScreenShot": 
             {
-            "url1":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/awwaljdbc1.png"
+            "screenShotURL1":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/awwaljdbc1.png"
               ,
             
-            "url2":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/awwaljdbc2.png",
+            "screenShotURL2":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/awwaljdbc2.png",
 
-            "url3":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/awwaljdbc3.png"
+            "screenShotURL3":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/awwaljdbc3.png"
             }
             
         }
