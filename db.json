@@ -1,4 +1,5 @@
-{[
+{
+  "Bakery":[
   {
     "title": "Brown eggs",
     "type": "dairy",
@@ -34,5 +35,41 @@
     "image": "27.jpg",
     "price": 27.81
   }
-]
+],
+ "dairy": [{
+        "title": "Brown eggs",
+        "type": "dairy",
+        "description": "Raw organic brown eggs in a basket",
+        "filename": "0.jpg",
+        "price": 28.1
+      },
+       {
+        "title": "Green smoothie",
+        "type": "dairy",
+        "description": "Glass of green smoothie with quail egg's yolk, served with cocktail tube, green apple and baby spinach leaves over tin surface.",
+        "filename": "3.jpg",
+        "price": 17.68
+      },
+      {
+        "title": "Baking cake",
+        "type": "dairy",
+        "description": "Baking cake in rural kitchen - dough  recipe ingredients (eggs, flour, sugar) on vintage wooden table from above.",
+        "filename": "5.jpg",
+        "price": 11.14
+      },
+      {
+        "title": "Breakfast with muesli",
+        "type": "dairy",
+        "description": "Concept of healthy breakfast with muesli",
+        "filename": "22.jpg",
+        "price": 22.7
+      },
+       {
+        "title": "Ricotta",
+        "type": "dairy",
+        "description": "Ricotta with berry and mint",
+        "filename": "27.jpg",
+        "price": 27.81
+      }
+    ]
 }
