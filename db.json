@@ -1,158 +1,106 @@
 {
-  "Bakery":[
+  "about": {
+      "name": "Mohd Dilshad Khan",
+  "designation": "Android App Developer",
+  "email": "dilshaddkhan@outlook.com",
+  "phone": "+1-437-981-1423",
+  "profilepic": "https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/profilepic.jpg",
+  "backgroundimage": "https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/about_background.jpg",
+  "linkedInProfile": "https://www.linkedin.com/in/dilshaddkhan/",
+  "gitHUbProfile": ":https://github.com/dilshaddkhan",
+  "summary": "I have 3+ years of experience in the Android Development, used RESTful services, integrating different libraries and XML. I was involved in the Development, Testing(Manual) and Implementation of complex software solutions.",
+  "skills": "Android, Kotlin (basics) , Java XML, Web Service SQLite, Oracle, MySQL, Maven, Espresso, JUnit, Android Studio, Android SDK, Eclipse, IntelliJ, Bitbucket, GIT, JIRA, SourceTree, Mac OS, Windows 8, Windows 10",
+  "interests": "I discover the world by traveling, getting to know the people, eating new things and learning foreign languages. Taking photo is the way to keep all the memories in my mind. Also, I try to live healthy by cooking and playing sport, especially cricket. I listen to music every day and in free time watch movies."
+  },
+  "experiences": {
+  "experience": [
     {
-      "title": "Whole Wheat bread",
-      "type": "bakery",
-      "description": "Homemade bread",
-      "image": "10.jpg",
-      "price": 17.48
+      "company": "Agranee Solutions Pvt. Ltd ",
+      "position": "Android App Developer",
+      "website": "http://www.agranee.com/",
+      "startDate": "Feb 2016",
+      "endDate": "till now",
+      "companylogo": "https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/agraneelogo.png",
+      "responsibilities": "Involved in creating the roadmap Used MVP Architecture.Created a database in sqlite.Involved in entire software development process for application (requirement, specification, design, implementation and testing on various android versions).Involved in Sprint Planning.Involved in daily scrum meetings."
     },
     {
-      "title": "Black Forest Cake",
-      "type": "bakery",
-      "description": "Chocolate Cake with whipped cream and cherries",
-      "image": "15.jpg",
-      "price": 20.31
+      "company": "Konnections ",
+      "position": "Member",
+      "website": "http://konnections.mobi/",
+      "startDate": "Decemeber 2017",
+      "endDate": "till now",
+      "companylogo": "https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/konnection_app_logo.png",
+      "responsibilities": "Involved in creating the roadmap Used MVP Architecture.Created a database in sqlite.Involved in entire software development process for application (requirement, specification, design, implementation and testing on various android versions).Involved in Sprint Planning.Involved in daily scrum meetings.Built app that communicates with RESTful services, Mobile Number OTP Authentication using Google Firebase Authentication."
     },
     {
-      "title": "Blueberry Pie",
-      "type": "bakery",
-      "description": "Pie with Fresh Blueberries",
-      "image": "23.jpg",
-      "price": 17.01
+      "company": "Augmont ",
+      "position": "Android App Developer",
+      "website": "https://www.augmont.in/",
+      "startDate": "Feb 2016",
+      "endDate": "November 2017",
+      "companylogo": "https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/augmontlogo.png",
+      "responsibilities": "Involved in creating the roadmap Used MVP Architecture. Created a database in SQLite. Involved in the entire software development process for application (requirement, specification, design, implementation and testing on various android versions). Involved in Sprint Planning. Involved in daily scrum meetings. The built app that communicates with RESTful services. Involved in Bug fixing and testing the app in android emulator present in android SDK and various android version devices."
     },
     {
-      "title": "Nanaimo bars",
-      "type": "bakery",
-      "description": "Three layer bar with wafer, nut and coconut crumb-base",
-      "image": "28.jpg",
-      "price": 18.5
-    }
-],
- "dairy": [{
-        "title": "Brown eggs",
-        "type": "dairy",
-        "description": "Raw organic brown eggs in a basket",
-        "filename": "0.jpg",
-        "price": 28.1
-      },
-       {
-        "title": "Green smoothie",
-        "type": "dairy",
-        "description": "Glass of green smoothie with quail egg's yolk, served with cocktail tube, green apple and baby spinach leaves over tin surface.",
-        "filename": "3.jpg",
-        "price": 17.68
-      },
-      {
-        "title": "Baking cake",
-        "type": "dairy",
-        "description": "Baking cake in rural kitchen - dough  recipe ingredients (eggs, flour, sugar) on vintage wooden table from above.",
-        "filename": "5.jpg",
-        "price": 11.14
-      },
-      {
-        "title": "Breakfast with muesli",
-        "type": "dairy",
-        "description": "Concept of healthy breakfast with muesli",
-        "filename": "22.jpg",
-        "price": 22.7
-      },
-       {
-        "title": "Ricotta",
-        "type": "dairy",
-        "description": "Ricotta with berry and mint",
-        "filename": "27.jpg",
-        "price": 27.81
-      }
-    ],
-    
-    "Fruit": [
-    {
-      "title": "Fresh pears",
-      "type": "fruit",
-      "description": "Sweet fresh pears on the wooden table",
-      "image": "18.jpg",
-      "price": 15.12
+      "company": "Adam Mickiewicz University ",
+      "position": "Android App Developer",
+      "website": "http://www.AdamMickiewiczUniversity.com/",
+      "startDate": "Feb 2014",
+      "endDate": "January 2016",
+      "companylogo": "https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/logo_poleng.png",
+      "responsibilities": "Involved in creating the roadmap Used MVP Architecture.Created a database in sqlite.Involved in entire software development process for application (requirement, specification, design, implementation and testing on various android versions).Involved in Sprint Planning.Involved in daily scrum meetings.Built app that communicates with RESTful services. Working experience with third party libraries like GSON, lib phone number."
+    }]
+  },
+  
+ "projects":{
+ "project": [
+        {
+          "projectName": "Konnections: Contacts Management ",
+          "playStoreLink": "https://play.google.com/store/apps/details?id=com.konnectionsconcepts.konnections",
+          "technologies": "Android, Core Java, Web services, REST, JSON Parsing, Agile, Android Studio, Dagger2, Retrofit, Butterknife .",
+            "companylogo":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/agraneelogo.png",
+          "ScreenShot": {
+            
+            "screenShotURL1":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/konnections1.png",
+            
+            "screenShotURL2":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/konnections2.png",
+            
+            "screenShotURL3":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/konnections3.png"
+            
+          }
     },
-    {
-      "title": "Oranges",
-      "type": "fruit",
-      "description": "Orange popsicle ice cream bars made from fresh oranges.  a refreshing summer treat.",
-      "image": "20.jpg",
-      "price": 21.48
-    },
-    {
-      "title": "Cherry",
-      "type": "fruit",
-      "description": "Cherry with sugar on old table",
-      "image": "33.jpg",
-      "price": 14.35
-    },
-    {
-      "title": "Fresh blueberries",
-      "type": "fruit",
-      "description": "Healthy breakfast. berry crumble with fresh blueberries, raspberries, strawberries, almond, walnuts, pecans, yogurt, and mint in ceramic plates over white wooden surface, top view",
-      "image": "37.jpg",
-      "price": 21.01
-  }],
-   "Vegetables": [
-    {
-      "title": "Asparagus",
-      "type": "vegetable",
-      "description": "Asparagus with ham on the wooden table",
-      "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/asparagus.png",
-      "price": 18.95
-    },
-    {
-      "title": "Sweet Onion",
-      "type": "vegetable",
-      "description": "BC fresh Sweet onions",
-      "image": "https://raw.githubusercontent.com/siddheshbudhkar/goroceryjson/master/onion.png",
-      "price": 17.11
-    },
-    {
-      "title": "Fresh tomato",
-      "type": "vegetable",
-      "description": "Fresh tomato juice with basil",
-      "image": "12.jpg",
-      "price": 16.3
-    },
-    {
-      "title": "Green beans",
-      "type": "vegetable",
-      "description": "Raw organic green beans ready to eat",
-      "image": "14.jpg",
-      "price": 28.79
-    }
-  ],
-  "Meat": [
-    {
-      "title": "Whole Chicken",
-      "type": "meat",
-      "description": "Whole Chicken",
-      "image": "14.jpg",
-      "price": 12.99
-    },
-    {
-      "title": "Pork Loin",
-      "type": "meat",
-      "description": "Delicious pork loin perfect for roasting",
-      "image": "14.jpg",
-      "price": 28.79
-    },
-    {
-      "title": "Beef Steak",
-      "type": "meat",
-      "description": "A big, beautiful slab of beef",
-      "image": "14.jpg",
-      "price": 30.19
-    },
-    {
-      "title": "Honey Garlic Chicken Wings",
-      "type": "meat",
-      "description": "Chicken wings marinated with Honey Garlic sauce",
-      "image": "14.jpg",
-      "price": 4.19
-    }
-  ]
+        {
+          "projectName": "Augmont - (Buy Gold and Silver in India)",
+          "playStoreLink": "https://play.google.com/store/apps/details?id=com.ambab.augmont",
+          "technologies": ": Android, Core Java, Web services, REST, JSON Parsing, Android Studio, Retrofit, Multipart, Payment gateway Integration ",
+          "companylogo":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/augmontlogo.png",
+          "ScreenShot": {
+            
+            "screenShotURL1":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/augmont1.png",
+            
+            "screenShotURL2":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/augmont2.png",
+            
+            "screenShotURL3":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/augmont3.png"
+            }
+            
+
+        },
+
+        {
+          "projectName": "Learn Jdbc : Java, Jdbc, Odbc",
+          "playStoreLink": " https://play.google.com/store/apps/details?id=com.awwalsoft.learnjdbc&hl=en",
+          "technologies": "  Core Java, Android, XML, Android Studio. ",
+          "companylogo":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/awwaljdbclogo.png",
+          "ScreenShot": 
+            {
+            "screenShotURL1":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/awwaljdbc1.png"
+              ,
+            
+            "screenShotURL2":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/awwaljdbc2.png",
+
+            "screenShotURL3":"https://raw.githubusercontent.com/dilshaddkhan/MyResumeJSON/master/awwaljdbc3.png"
+            }
+            
+        }
+      ]}
 }
